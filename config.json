@@ -1,0 +1,9 @@
+{
+	"ip":"Ash_smp.aternos.me:12566",
+	"port": 12566,
+	"name": "afkbot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register afkbot",
+	"login-cmd":"/login afkbot"
+}
